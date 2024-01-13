@@ -1,4 +1,4 @@
 # online-library
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,Bootstrap,git" />
+    <img src="https://skillicons.dev/icons?i=php,bootstrap,js,git" />
   </a>
